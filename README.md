@@ -1,4 +1,4 @@
-## PBDB_changelog
+# PBDB_changelog
 
 Recent enhancements and bugfixes to the [paleobiology database](www.paleobiodb.org).
 
