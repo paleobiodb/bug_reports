@@ -1,6 +1,6 @@
 # PBDB_changelog
 
-Recent enhancements and bugfixes to the [paleobiology database](www.paleobiodb.org).
+Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.org). To report bugs with the website or data service, go to Issues in this repository.
 
 ## Version 0.00
 #### Added a new user-management system.
