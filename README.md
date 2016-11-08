@@ -26,4 +26,4 @@ Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.o
 
 #### Bug Fixes
 + Fixed the paleocoordinate rotations to use a single EarthByte model. It formerly used a mixture of two models, which was creating erroneous results.
-Wright et al. (2013) Towards community-driven paleogeographic reconstructions: integrating open-access paleogeographic and paleobiology data with plate tectonics. Biogeosciences 10:1529-1541
+Wright et al. (2013) Towards community-driven paleogeographic reconstructions: integrating open-access paleogeographic and paleobiology data with plate tectonics. *Biogeosciences* 10:1529-1541
