@@ -8,7 +8,6 @@ Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.o
 #### Added a new user-management system.
 + Authorizers have direct management control of enterers and students.
 + Added password security.
-+ [ORCID](www.orcid.org) can be used for creating new accounts, or enhancing existing accounts.
 
 #### Main menu changes.
 + Changed the main menu layout.
