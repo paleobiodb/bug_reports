@@ -2,9 +2,6 @@
 
 Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.org). To report bugs with the website or data service, go to [Issues](https://github.com/paleobiodb/PBDB_changelog/issues) in this repository.
 
-[//]: # (Don't you want people to file issues in the service-appropriate repository instead? - Andrew)
-[//]: # (Also, what about enhancement requests as opposed to bug reporting? - Andrew)
-
 ## Version 0.00
 #### Added a new user-management system.
 + Authorizers have direct management control of enterers and students.
