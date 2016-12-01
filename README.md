@@ -5,7 +5,7 @@ Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.o
 ## Version 2.00 
 
 #### System changes
-+ On 11/30/2016 A new version of the PBDB backend and web interface now hosted by the 
++ On 11/30/2016 A new version of the PBDB backend and web interface was launched. Now called Version 2, this new version is hosted by Wing (a web services toolkit) and uses modern web frameworks. The result is greater efficiency and security of the system as a whole and access to a host of built-in features.
 
 #### GUI changes
 + New global menubar with active reference indicator and Taxon quick search
