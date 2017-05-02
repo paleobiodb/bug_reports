@@ -1,6 +1,6 @@
 # The PBDB Project Changelog
 
-Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.org). To report bugs with the website or data service, please email admin@paleobiodb.org.
+Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.org) including the code Web application, the graphical Navigator and the supporting Data Service/Public API. To report bugs with the website or data service, please email admin@paleobiodb.org.
 
 ## Version 2.00 
 
