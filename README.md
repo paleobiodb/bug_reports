@@ -1,4 +1,4 @@
-# PBDB_changelog
+# The PBDB Project Changelog
 
 Recent enhancements and bugfixes to the [Paleobiology Database](www.paleobiodb.org). To report bugs with the website or data service, please email admin@paleobiodb.org.
 
