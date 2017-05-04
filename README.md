@@ -2,7 +2,16 @@
 
 Recent enhancements to the [Paleobiology Database](www.paleobiodb.org) including the core Web Application, the graphical Navigator and the supporting Data Service/Public API. To report bugs with the PBDB website or data service, please email admin@paleobiodb.org.
 
-## Version 2.00 
+## Version 2.1
+
+#### Navigator changes
+
+#### Data service changes
++ Added new operation combined/auto for better auto-completion
++ When returning paleocoordinates, an explanatory message has been added in cases where the coordinates are not computable using the selected model
++ Full documentation at https://paleobiodb.org/data1.2/changelog_doc.html
+
+## Version 2.0
 
 #### System changes
 + On 11/30/2016 A new version of the PBDB backend and web interface was launched. Now called Version 2, this version is supported by a true web application framework in conjuction with Wing, a modern web services toolkit. The result is greater efficiency, security and modularity of the system as a whole together with access to a host of advanced built-in features.
