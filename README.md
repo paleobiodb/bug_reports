@@ -18,6 +18,7 @@ Recent enhancements to the [Paleobiology Database](www.paleobiodb.org) including
 + Contributors: academic affiliation
 
 ### Data service changes
++ Incremented version to 1.2 (v2).
 + Added new operation combined/auto for better auto-completion
 + When returning paleocoordinates, an explanatory message has been added in cases where the coordinates are not computable using the selected model
 + Full documentation at https://paleobiodb.org/data1.2/changelog_doc.html
